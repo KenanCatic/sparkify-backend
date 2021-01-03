@@ -2,7 +2,9 @@
 
 ### Setup 
 To run this API on your computer:
+
 -clone the repo 
+
 -create database.config.js file in root of config folder with the following syntax:
 
 module.exports = {
